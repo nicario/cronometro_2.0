@@ -1,0 +1,29 @@
+.div__body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-self: center;
+  background-color: rgb(175, 172, 172);
+  border-radius: 50px;
+  height: 100px;
+  box-shadow: -15px 10px 5px -5px #949B8A;
+}
+
+.div__div{
+  height: 50px;
+  width: 120px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(242, 235, 158);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button__div2{
+  background-color: rgb(150, 88, 88);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
